@@ -1,0 +1,14 @@
+name: rcsad
+channels:
+  - defaults
+dependencies:
+  - pytorch
+  - cudatoolkit=10.1
+  - seaborn
+  - pandas
+  - librosa
+  - jupyterlab
+  - tqdm
+  - torchaudio
+  - torchvision
+prefix: /home/dante/miniconda3/envs/rcsad
